@@ -1,0 +1,14 @@
+main {
+  margin: 0;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  padding: 1em;
+  /*background-color: white;*/
+  margin-bottom: 2em;
+}

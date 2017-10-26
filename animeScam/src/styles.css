@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html {
+  height: 100vh;
+  background-image: url('./assets/tree.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: 0 0 20px rgb(255, 216, 248), 1px 1px 10px rgb(255, 216, 248);
+  font-family: 'Changa One', sans-serif;
+}
