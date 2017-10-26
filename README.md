@@ -1,42 +1,27 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Angular Fun with APIs!
+# AnimeScam
 
-## Introduction
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
-So far we've built 2 Angular apps that consumed 3rd party APIs (Astronaunt and Weather API apps). Your lab prompt is an open-ended one: in pairs, make something cool using a 3rd party API of your choosing!
+## Development server
 
-Choose one associate to fork and clone this repo. Create your project folder structure inside. Add both associate's names in the title of the pull request.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-<br>
+## Code scaffolding
 
-## APIs you may (but don't have to) use...
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-* [Capital One Hackathon API](http://api.reimaginebanking.com/)
-* [Star Wars API](https://swapi.co/)
-* [Pokeapi](https://pokeapi.co/)
-* [Weather Underground](http://www.wunderground.com/weather/api)
-* [TV Maze](http://www.tvmaze.com/api)
-* [NYC Open Data](https://opendata.cityofnewyork.us/)
-There's an API for pretty much everything. You can search for more at [Mashape](https://www.mashape.com/explore) or [check out these public APIs](https://github.com/toddmotto/public-apis)
+## Build
 
-**If you find yourself spending more than 10 minutes just getting the API to talk back to you via Postman or the browser, you're spending too much time.** Ping an instructor if you need any API suggestions.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-<br>
+## Running unit tests
 
-## MVP - Minimum Viable Product
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Your API app must have at minimum:
+## Running end-to-end tests
 
-1. A component with a form to accept user input
-2. Create a service to make the API call
-3. Render the results to the view
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## BONUS
+## Further help
 
-Add routing to a 2nd API.
-
-
-<br>
-
-## Additional Resources
-
-[Angular Tutorial - Tour of Heroes](https://angular.io/tutorial)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
